@@ -136,7 +136,7 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp...')}`);
         });
 
         console.log(
-            chalk.green.bold('DXTROX PERFECTLY WORKING💖')
+            chalk.green.bold('JEWEL-MOWL PERFECTLY WORKING💖')
         );
     });
     
@@ -261,7 +261,7 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp...')}`);
                                     'Gerçekleşen Hata: ' + error + '\n\n'
                                     , MessageType.text);
                             } else {
-                                await conn.sendMessage(conn.user.jid, '*~_________~ DXTROX ~______~*' +
+                                await conn.sendMessage(conn.user.jid, '*~_________~ JEWEL-MOWL ~______~*' +
                                     '\n*🌀 : https://chat.whatsapp.com/JyE9edUo3JUBa38nVTrfHc*' +
                                     '\n\n*⚠️ ' + error + '*\n'
                                     , MessageType.text);
