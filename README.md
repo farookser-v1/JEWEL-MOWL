@@ -22,7 +22,7 @@ Click WA logo to Join Support Group 👇👇
     <br>
 <br>
        
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=amal-dx&repo=DXTROX_V1&theme=nightowl)](https://github.com/amal-dx/DXTROX_V1)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=farookser-v1&repo=JEWEL-MOWL&theme=nightowl)](https://github.com/farookser-v1/JEWEL-MOWL)
   </div>
     
 ## Setup
@@ -30,9 +30,9 @@ Click WA logo to Join Support Group 👇👇
 
   ### Simple Method
   
-[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@terror-boy/DXTROXV1?v=1)
+[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@farookser-v1/JEWEL-MOWL?v=1)
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/amal-dx/DXTROX_V1)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/farookser-v1/JEWEL-MOWL)
      </div>
 <br>
 <br >
@@ -41,7 +41,7 @@ If Repl.it not working Try Termux for Qr scanning.Just Copy the Link Below in Te
 bash <(curl -L https://tinyurl.com/krzpy3rc)
 ``` 
   
-### Amal-dx
+### farookser-v1
 
 
 ### ⚠️ Warning! 
@@ -55,9 +55,9 @@ By establishing the Asena, you are deemed to have accepted these responsibilitie
 ## Developers
 <div align="center">
     
-  [![DXTROX](https://github.com/amal-dx.png?size=200)](https://github.com/amal-dx) | [![TERROR-BOY](https://github.com/terror-boy.png?size=200)](https://github.com/terror-boy)  
+  [![DXTROX](https://github.com/farookser-v1.png?size=200)](https://github.com/farookser-v1) | [![farookser-v1](https://github.com/farookser-v1.png?size=200)](https://github.com/farookser-v1)  
 ----|----
-[DXTROX](https://github.com/amal-dx)  | [TERROR-BOY](https://github.com/terror-boy)  
+[DXTROX](https://github.com/farookser-v1)  | [farookser-v1](https://github.com/farookser-v1)  
 Base, Bug Fixes, Modules | Base, Bug Fixes, Modules 
   </div>
 
