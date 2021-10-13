@@ -30,7 +30,7 @@ Click WA logo to Join Support Group 👇👇
 
   ### Simple Method
   
-[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@farookser-v1/JEWEL-MOWL?v=1)
+[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@terror-boy/DXTROXV1?v=1)
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/farookser-v1/JEWEL-MOWL)
      </div>
